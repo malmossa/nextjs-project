@@ -22,7 +22,8 @@ nav {
   border-bottom: 1px solid #ddd;
 }
 nav a {
-  margin-left: 12px;
+  margin-left: 20px;
+  margin-bottom: 20px;
 }
 nav .logo {
   margin-right: auto;
